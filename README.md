@@ -9,7 +9,6 @@
 - 🌱 I’m currently learning **Next.js**  
 - 🔍 Exploring **Web Performance, UI/UX, and Modern Frontend Technologies**  
 - 📝 I write about frontend development & creativity on my [blog](https://www.elifnurkarakoc.com/)  
-- 📫 How to reach me: **elifnur.work@gmail.com**  
 
 ---
 
