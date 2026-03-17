@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elif</h1>
 <h3 align="center">A passionate frontend developer from Istanbul</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="500" alt="Coding GIF">
-</p>
-
 ### 👩‍💻 About Me
-- 🌱 I’m currently learning **Next.js**  
 - 🔍 Exploring **Web Performance, UI/UX, and Modern Frontend Technologies**  
 - 📝 I write about frontend development & creativity on my [blog](https://www.elifnurkarakoc.com/)  
 
